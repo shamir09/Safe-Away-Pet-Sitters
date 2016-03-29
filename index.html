@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-Us">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" lang="en-Us">
+    <title>Safe Away, Pet sitters </title>
+
+    <link rel="icon" type="image/ico" href="favicon.ico">
+
+    <!--<link rel="stylesheet" type="text/css" href="mytheme.css">-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="Safe_Away_Stylesheet.css">
+    
+    <meta name="description" content="Need to take care of your pet, rest easy knowing your friends at Safe Away are taking care of your loving pet" />
+    <meta name="keywords" content="Pet Sitting, Pet Sitter, Walking your dog" />
+    <meta name="author" content="Shamir Ajate" />
+    <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+    <div id="headerLogo"><img src="assets/images/Safe-Away-logo.png" id="Logo" width="250px" height="250px" alt="Logo" draggable="false">
+
+</div>
+<br />
+
+
+<div id="ReservationForm">
+<form name="contactform" method="post" action="sendform.php">
+
+          <h1 id="contactMeHeader"><span class="glyphicon glyphicon-calendar"></span>
+         Reserve your dates Online  </h1>
+
+          <div id="container_box">
+              <div style="display: inline-block">
+                  From: <br />
+                  <input type="date" name="date" maxlength="10" id="FromDate" required></br>
+
+                  To:  <br />
+                  <input type="date" name="date" maxlength="10" id="ToDate" required></br>
+               </div>
+              <div>
+                  Name:  <br />
+                  <input type="text" name="email" maxlength="30" id="name" placeholder="Customer Name" required></br>
+
+                  Phone #:  <br />
+                  <input type="tel" name="email" maxlength="30" id="phone" placeholder="(305)555-5555" required></br>
+                </div>
+             <div>
+                  E-mail:   <br />
+                  <input type="email" name="email" maxlength="30" id="email" placeholder="name@gmail.com" required></br>
+                          <br />
+                  <textarea name="body" maxlength="100" cols="30" rows="6" id="text_area" placeholder="Special Notes: Bug has to be fed every 2 hours, taken out 3 times at 10AM, 12PM, & 2PM" required></textarea>
+<br />     </div>
+                  <input type="submit" value="Submit" class="btn btn-primary btn-lg" id="submit_btn">
+                  <input type="reset" value="Reset" class="btn btn-warning btn-lg" id="reset_btn">
+
+</form>
+</div>
+
+
+
+
+
+</body>
+</html>
