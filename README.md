@@ -2,7 +2,7 @@
 Safe Away Pet sitters Web Application
 
 # MG6000-PSF-Calc-Javascript
-<div style="display: block; text-align="center";> <img src="http://shamirajate.com/safeAway/assets/images/Safe-Away-Logo.png" width="200" height="160"></div>
+<div style="display: block; text-align="center";> <img src="http://www.shamirajate.com/safeAway/assets/images/Safe-Away-logo.png" width="200" height="160"></div>
 
  READ ME FILE  |  Safe Away Pet Sitters
 
