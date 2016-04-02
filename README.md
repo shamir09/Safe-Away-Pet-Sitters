@@ -1,4 +1,4 @@
-# Safe-Away-Pet-Sitters
+# Safe Away Pet Sitters
 Safe Away Pet sitters Web Application
 
 <div style="display: block; text-align="center";> <img src="http://www.shamirajate.com/safeAway/assets/images/Safe-Away-logo.png" width="200" height="160"></div>
@@ -7,7 +7,7 @@ Safe Away Pet sitters Web Application
 
 ### Safe while you're away
 
-#### Welcome to the best Pet Sitting solution, Safe Away Pet Sitters have professional staff that will cater to your pets needs. Walk them feed them and even take care of your house. To reserve your spot now, check availability with our Online App.
+#### Welcome to the best Pet Sitting solution, Safe Away Pet Sitters have professional staff that will cater to your pets needs. Walk them feed them and even take care of your house. To reserve your spot now, check availability with our Online App for a specific date and receive instant pricing.
 
 ### DISCLAIMER    |
 
