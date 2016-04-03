@@ -1,5 +1,4 @@
 # Safe Away Pet Sitters
-Safe Away Pet sitters Web Application
 
 <div style="display: block; text-align="center";> <img src="http://www.shamirajate.com/safeAway/assets/images/Safe-Away-logo.png" width="200" height="160"></div>
 
