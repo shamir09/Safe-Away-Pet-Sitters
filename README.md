@@ -1,6 +1,6 @@
 # Safe Away Pet Sitters
 
-<div style="display: block; text-align="center";> <img src="http://www.shamirajate.com/safeAway/assets/images/Safe-Away-logo.png" width="200" height="160"></div>
+<div style="display: block; text-align="center";> <img src="http://www.shamirajate.com/safeAway/assets/images/Safe-Away-logo.png" width="300" height="260"></div>
 
  READ ME FILE  |  Safe Away Pet Sitters
 
