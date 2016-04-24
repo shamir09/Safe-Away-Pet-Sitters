@@ -1,24 +1,28 @@
 body {
   background-color: black;
-  color: gray
+  color: darkgray
 }
 input {
   width:225px;
-  border-radius: 20px;
-  font-family: inherit;
+  border-radius: 15px;
+  font-family: Arial;
   font-size: initial;
-}
+  padding:10px;
+  }
 textarea {
   width:459px;
   border-radius: 5px;
-}
+  font-family: Arial;
+  font-size: initial;
+  padding:10px;
+  }
 
 #headerLogo {
-  text-align:center; background-color: black; padding: 10px;
+  text-align:center;
+  background-color: black;
+  padding: 10px;
 }
 #ReservationForm {
-  text-align:center; background-color: light-gray; padding: 10px;
-}
-input {
-  padding:10px;
+  text-align:center;
+ padding: 10px;
 }
