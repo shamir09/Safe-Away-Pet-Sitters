@@ -10,13 +10,17 @@ input {
   padding:10px;
   }
 textarea {
-  width:459px;
+  width:480px;
   border-radius: 5px;
-  font-family: Arial;
-  font-size: initial;
-  padding:10px;
+  padding:0px;
   }
-
+#pageTitle {
+  font-weight: 900;
+  color: #e43be4;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
 #headerLogo {
   text-align:center;
   background-color: black;
@@ -35,13 +39,13 @@ textarea {
   height:80px;
   padding: 7px;
   }
-  #Logo {width:200px; height:200px;}
-  #ellieCat {float: left; width: 300px; position: absolute; margin-top: 50px; }
+  #Logo {width:300px; height:300px;}
+  #ellieCat, #buggie {text-align: right; width: 300px; padding: 40px; display: inline;}
 
 
   /* MEDIA QUERIES FOR PHONES & TABLETS  */
     @media screen and (max-width: 700px) {
 
-          #ellieCat { width: 240px; margin-left: -40px; }
-
+          #ellieCat, #buggie { width: 240px;}
+          #Logo {width:200px; height: 200px; text-align: center;}
     }
